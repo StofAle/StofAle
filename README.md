@@ -1,4 +1,5 @@
-Hi, I’m Alex
+Hi, I’m Alex.
+
 I’m interested in quant finance, data science and machine learning.
 
 <!---
